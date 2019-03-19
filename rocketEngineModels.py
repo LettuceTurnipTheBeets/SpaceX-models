@@ -1,5 +1,3 @@
-
-
 class RocketEngine(object):
     """
     RocketEngine class to model a Merlin engine used in a SpaceX Falcon 9
